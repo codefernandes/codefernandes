@@ -9,7 +9,8 @@ Atuo com arquitetura de soluções e arquitetura corporativa, engenharia de soft
 | Trilha | Foco |
 | --- | --- |
 | Fundamentos de engenharia | Windows, Linux, Git, GitHub, VS Code e práticas de trabalho reproduzíveis. |
-| Arquitetura | Capacidades, processos, aplicações, integrações, decisões e visão de solução. |
+| Arquitetura Corporativa | Capacidades, processos, aplicações, informações, tecnologia e governança. |
+| Arquitetura de Soluções | Discovery, restrições, integrações, requisitos não funcionais, trade-offs e desenho de solução. |
 | Engenharia de software | Práticas de desenvolvimento, requisitos, código, testes, revisão técnica e evolução responsável de sistemas. |
 | VibeCode | Desenvolvimento assistido por IA, com validação humana, testes e responsabilidade sobre o resultado. |
 | IA e automação aplicada | Automação com supervisão humana, avaliação, auditoria e uso responsável de IA. |
