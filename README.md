@@ -10,7 +10,8 @@ Atuo com arquitetura de soluções e arquitetura corporativa, engenharia de soft
 | --- | --- |
 | Fundamentos de engenharia | Windows, Linux, Git, GitHub, VS Code e práticas de trabalho reproduzíveis. |
 | Arquitetura | Capacidades, processos, aplicações, integrações, decisões e visão de solução. |
-| Engenharia de software e VibeCode | Práticas de desenvolvimento, requisitos, código, testes, revisão técnica e IA como aceleradora consciente. |
+| Engenharia de software | Práticas de desenvolvimento, requisitos, código, testes, revisão técnica e evolução responsável de sistemas. |
+| VibeCode | Desenvolvimento assistido por IA, com validação humana, testes e responsabilidade sobre o resultado. |
 | IA e automação aplicada | Automação com supervisão humana, avaliação, auditoria e uso responsável de IA. |
 | Segurança operacional | Hardening, logs, detecção, resposta e evidências defensivas. |
 
@@ -22,7 +23,7 @@ Tecnologia existe para sustentar uma operação. Por isso, cada entrega pública
 
 ## Em construção
 
-O ponto de entrada das trilhas será o repositório **Marcelo-Fernandes**, que está sendo estruturado como um laboratório público de arquitetura, IA e segurança. Os links serão adicionados somente quando houver conteúdo público navegável e validado.
+O ponto de entrada das trilhas é o repositório [Marcelo-Fernandes](https://github.com/codefernandes/Marcelo-Fernandes), estruturado como um laboratório público de arquitetura, engenharia de software, IA e segurança. Os links específicos serão adicionados à medida que cada conteúdo for publicado e validado.
 
 ---
 
